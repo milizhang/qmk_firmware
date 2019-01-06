@@ -21,12 +21,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
-#define DEVICE_VER      0x0003
-#define MANUFACTURER    bpiphany
-#define PRODUCT         PHANTOM
-#define DESCRIPTION     QMK keyboard firmware for PHANTOM
+#define VENDOR_ID       0x2220
+#define PRODUCT_ID      0x0001
+#define DEVICE_VER      0x0100
+#define MANUFACTURER    Mili (Yi) Zhang
+#define PRODUCT         Custom Keyboard Model-01 "Skogkatt"
+#define DESCRIPTION     Powered by QMK/Phantom
 
 /* key matrix size */
 #define MATRIX_ROWS 6
