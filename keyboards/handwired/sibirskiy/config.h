@@ -19,6 +19,9 @@ Copyright 2019 Mili (Yi) Zhang <milizhang@gmail.com>
 #define MATRIX_ROWS 6
 #define MATRIX_COLS 16
 
+#define BOOTMAGIC_LITE_ROW 0
+#define BOOTMAGIC_LITE_COLUMN 0
+
 /*
  * Keyboard Matrix Assignments
  *
